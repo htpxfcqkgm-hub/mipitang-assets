@@ -7,5 +7,14 @@
     "reason": "11",
     "status": "active",
     "time": 1792604352651
+  },
+  {
+    "id": "w_1792646180139641",
+    "type": "target",
+    "uid": "MPT-L5QR-N334",
+    "amount": 100,
+    "reason": "经济补偿金",
+    "status": "active",
+    "time": 1792646180139
   }
 ]

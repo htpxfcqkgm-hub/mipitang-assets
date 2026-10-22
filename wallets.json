@@ -160,5 +160,14 @@
     "reason": "官方操作",
     "status": "active",
     "time": 1792690662125
+  },
+  {
+    "id": "w_17927038246248",
+    "type": "target",
+    "uid": "MPT-45NC-EKWF",
+    "amount": 1,
+    "reason": "官方操作",
+    "status": "active",
+    "time": 1792703824624
   }
 ]

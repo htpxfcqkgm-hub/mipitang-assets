@@ -43,5 +43,14 @@
     "reason": "官方操作",
     "status": "active",
     "time": 1792671340578
+  },
+  {
+    "id": "w_1792671600039261",
+    "type": "target",
+    "uid": "MPT-UM4F-QSXJ",
+    "amount": 12,
+    "reason": "官方操作",
+    "status": "active",
+    "time": 1792671600040
   }
 ]

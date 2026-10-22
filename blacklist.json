@@ -1,10 +1,4 @@
 {
   "updated": "2026-10-22T21:14:34.094Z",
-  "bannedUsers": [
-    {
-      "uid": "1",
-      "reason": "未填写原因",
-      "time": 1792703674094
-    }
-  ]
+  "bannedUsers": []
 }

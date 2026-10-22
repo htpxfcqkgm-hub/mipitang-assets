@@ -70,5 +70,14 @@
     "reason": "官方操作",
     "status": "active",
     "time": 1792672653040
+  },
+  {
+    "id": "w_1792672894935334",
+    "type": "target",
+    "uid": "MPT-8QAB-UK4Y",
+    "amount": 1,
+    "reason": "官方操作",
+    "status": "active",
+    "time": 1792672894935
   }
 ]

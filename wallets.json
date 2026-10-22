@@ -97,5 +97,14 @@
     "reason": "官方操作",
     "status": "active",
     "time": 1792680070275
+  },
+  {
+    "id": "w_1792680462465618",
+    "type": "target",
+    "uid": "MPT-YBLN-UDHW",
+    "amount": 1,
+    "reason": "官方操作",
+    "status": "active",
+    "time": 1792680462465
   }
 ]

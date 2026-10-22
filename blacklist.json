@@ -1,10 +1,4 @@
 {
   "updated": "2026-10-22T21:15:57.653Z",
-  "bannedUsers": [
-    {
-      "uid": "MPT-45NC-EKWF",
-      "reason": "未填写原因",
-      "time": 1792703757652
-    }
-  ]
+  "bannedUsers": []
 }

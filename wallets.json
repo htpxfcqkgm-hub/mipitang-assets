@@ -151,5 +151,14 @@
     "reason": "官方操作",
     "status": "active",
     "time": 1792689690602
+  },
+  {
+    "id": "w_179269066212527",
+    "type": "target",
+    "uid": "MPT-TSYW-BGY7",
+    "amount": -99,
+    "reason": "官方操作",
+    "status": "active",
+    "time": 1792690662125
   }
 ]

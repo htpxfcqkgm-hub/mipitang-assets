@@ -1,4 +1,10 @@
 {
-  "updated": "2026-10-22T17:56:03.618Z",
-  "bannedUsers": []
+  "updated": "2026-10-22T17:57:11.720Z",
+  "bannedUsers": [
+    {
+      "uid": "MPT-YZNT-VW4X",
+      "reason": "未填写原因",
+      "time": 1792691831715
+    }
+  ]
 }

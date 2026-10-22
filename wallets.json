@@ -16,5 +16,14 @@
     "reason": "经济补偿金",
     "status": "active",
     "time": 1792646180139
+  },
+  {
+    "id": "w_1792670761417578",
+    "type": "target",
+    "uid": "MPT-8QAB-UK4Y",
+    "amount": 1,
+    "reason": "官方操作",
+    "status": "active",
+    "time": 1792670761417
   }
 ]

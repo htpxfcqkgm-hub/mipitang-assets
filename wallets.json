@@ -178,5 +178,14 @@
     "reason": "官方操作",
     "status": "active",
     "time": 1792729540835
+  },
+  {
+    "id": "w_1792753917587103",
+    "type": "target",
+    "uid": "MPT-WCQC-R2FR",
+    "amount": 10,
+    "reason": "测试",
+    "status": "active",
+    "time": 1792753917587
   }
 ]

@@ -187,5 +187,14 @@
     "reason": "测试",
     "status": "active",
     "time": 1792753917587
+  },
+  {
+    "id": "w_1792765242919525",
+    "type": "target",
+    "uid": "MPT-UM4F-QSXJ",
+    "amount": 1,
+    "reason": "官方操作",
+    "status": "active",
+    "time": 1792765242919
   }
 ]

@@ -1,4 +1,10 @@
 {
-  "updated": "2026-10-23T19:18:42.018Z",
-  "bannedUsers": []
+  "updated": "2026-10-23T19:21:06.663Z",
+  "bannedUsers": [
+    {
+      "uid": "MPT-TBB3-APAX",
+      "reason": "未填写原因",
+      "time": 1792783266663
+    }
+  ]
 }

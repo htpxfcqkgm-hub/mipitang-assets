@@ -169,5 +169,14 @@
     "reason": "官方操作",
     "status": "active",
     "time": 1792703824624
+  },
+  {
+    "id": "w_1792729540835651",
+    "type": "target",
+    "uid": "MPT-8SMS-9QXS",
+    "amount": 10,
+    "reason": "官方操作",
+    "status": "active",
+    "time": 1792729540835
   }
 ]

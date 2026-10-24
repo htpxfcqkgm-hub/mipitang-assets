@@ -1,3 +1,12 @@
 {
-  "notice": ""
+  "notice": "",
+  "directedNotices": [
+    {
+      "id": "d_1792826990464",
+      "targets": [
+        "MPT-VWRQ-2XL6"
+      ],
+      "content": "想要金币就给我发反馈"
+    }
+  ]
 }

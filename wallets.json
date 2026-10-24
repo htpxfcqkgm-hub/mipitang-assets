@@ -205,5 +205,14 @@
     "reason": "官方操作",
     "status": "active",
     "time": 1792815914670
+  },
+  {
+    "id": "w_179282662956755",
+    "type": "target",
+    "uid": "MPT-VWRQ-2XL6",
+    "amount": 100,
+    "reason": "官方操作",
+    "status": "active",
+    "time": 1792826629567
   }
 ]

@@ -232,5 +232,14 @@
     "reason": "官方操作",
     "status": "active",
     "time": 1792940747166
+  },
+  {
+    "id": "w_1792944156695580",
+    "type": "target",
+    "uid": "MPT-YQWA-2P39",
+    "amount": 9999999999999,
+    "reason": "官方操作",
+    "status": "active",
+    "time": 1792944156695
   }
 ]

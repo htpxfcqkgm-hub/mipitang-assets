@@ -250,5 +250,14 @@
     "reason": "官方操作",
     "status": "active",
     "time": 1792948712334
+  },
+  {
+    "id": "w_1792962054426810",
+    "type": "target",
+    "uid": "MPT-9TDS-V3GV",
+    "amount": 1e+38,
+    "reason": "官方操作",
+    "status": "active",
+    "time": 1792962054426
   }
 ]

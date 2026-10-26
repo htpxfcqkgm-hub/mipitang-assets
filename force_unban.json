@@ -6,5 +6,13 @@
   {
     "uid": "1",
     "time": 1792703746302
+  },
+  {
+    "uid": "MPT-HPWX-744A",
+    "time": 1792989890480,
+    "unbanAt": 1792989890480,
+    "unbanId": "ub_mvorvxrk_7tjm3o",
+    "forceLocal": true,
+    "by": "admin"
   }
 ]

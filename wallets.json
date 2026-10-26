@@ -259,5 +259,14 @@
     "reason": "官方操作",
     "status": "active",
     "time": 1792962054426
+  },
+  {
+    "id": "w_1792983956077191",
+    "type": "target",
+    "uid": "MPT-HPWX-744A",
+    "amount": 1,
+    "reason": "官方操作",
+    "status": "active",
+    "time": 1792983956077
   }
 ]

@@ -1,10 +1,4 @@
 {
   "updated": "2026-10-23T19:21:06.663Z",
-  "bannedUsers": [
-    {
-      "uid": "MPT-HPWX-744A",
-      "reason": "未填写原因",
-      "time": 1792982643078
-    }
-  ]
+  "bannedUsers": []
 }

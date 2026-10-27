@@ -313,5 +313,14 @@
     "reason": "官方操作",
     "status": "active",
     "time": 1793105201216
+  },
+  {
+    "id": "w_1793105358012169",
+    "type": "target",
+    "uid": "MPT-LS7D-6NU9",
+    "amount": 100000,
+    "reason": "官方操作",
+    "status": "active",
+    "time": 1793105358012
   }
 ]

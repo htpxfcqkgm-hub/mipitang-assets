@@ -331,5 +331,14 @@
     "reason": "官方操作",
     "status": "active",
     "time": 1793105408816
+  },
+  {
+    "id": "w_179312082587037",
+    "type": "target",
+    "uid": "MPT-Z8WM-YYHP",
+    "amount": 100000,
+    "reason": "官方操作",
+    "status": "active",
+    "time": 1793120825870
   }
 ]

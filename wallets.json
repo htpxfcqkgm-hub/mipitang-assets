@@ -322,5 +322,14 @@
     "reason": "官方操作",
     "status": "active",
     "time": 1793105358012
+  },
+  {
+    "id": "w_1793105408816585",
+    "type": "target",
+    "uid": "MPT-Z2JK-BYGE",
+    "amount": 100000,
+    "reason": "官方操作",
+    "status": "active",
+    "time": 1793105408816
   }
 ]

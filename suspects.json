@@ -1,10 +1,1 @@
-[
-  {
-    "uid": "MPT-Z8WM-YYHP",
-    "name": "1",
-    "reason": "【控制台注入】试图修改核心数据",
-    "rawCode": "控制台注入：试图篡改核心对象属性",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
-    "time": 1793122609422
-  }
-]
+[]

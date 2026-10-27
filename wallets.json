@@ -277,5 +277,14 @@
     "reason": "我们发现了一个错误",
     "status": "active",
     "time": 1793104110448
+  },
+  {
+    "id": "w_1793104170057631",
+    "type": "target",
+    "uid": "MPT-HPWX-744A",
+    "amount": 900000,
+    "reason": "我们发现了一个错误",
+    "status": "active",
+    "time": 1793104170057
   }
 ]
